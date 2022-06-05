@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\bin\Debug\Laborator5.exe.config
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\bin\Debug\Laborator5.exe
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\bin\Debug\Laborator5.pdb
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\bin\Debug\Emgu.CV.Bitmap.dll
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\bin\Debug\System.Drawing.Common.dll
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\obj\Debug\Laborator5.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\obj\Debug\Laborator5.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\obj\Debug\Laborator5.Form1.resources
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\obj\Debug\Laborator5.Properties.Resources.resources
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\obj\Debug\Laborator5.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\obj\Debug\Laborator5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\obj\Debug\Laborator5.csproj.CopyComplete
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\obj\Debug\Laborator5.exe
+\\Mac\Home\Desktop\FACULTATE\Anul 3\Semestrul 2\EditAudio-Video\Laborator5\Editare-Audio-Video\Laborator5\obj\Debug\Laborator5.pdb

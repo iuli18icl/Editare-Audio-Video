@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Laborator5\\Laborator5.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Editare-Audio-Video\\Laborator5\\Laborator5.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Laborator5\\Laborator5.csproj": {
+    "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Editare-Audio-Video\\Laborator5\\Laborator5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Laborator5\\Laborator5.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Editare-Audio-Video\\Laborator5\\Laborator5.csproj",
         "projectName": "Laborator5",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Laborator5\\Laborator5.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Editare-Audio-Video\\Laborator5\\Laborator5.csproj",
         "packagesPath": "C:\\Users\\iuli18icl\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Laborator5\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Editare-Audio-Video\\Laborator5\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

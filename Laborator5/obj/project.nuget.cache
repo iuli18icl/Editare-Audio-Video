@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X3ty7arNWyyz1qJuRZ+sWgcFffNLhaXrcfcwoIKNBUa7zsyAVCcj/4jY3Hkiv2NUpHjmAR3s9QgKmRLPyoe7OA==",
+  "dgSpecHash": "o0A0LVkxMp+u6Uz7wnGd96HSNqPQPOV7K9/QemJjhjr5RHy7SpIJciURgRRXkDXQK+KUAwQbyEPiohjpf2x5xA==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Laborator5\\Laborator5.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\FACULTATE\\Anul 3\\Semestrul 2\\EditAudio-Video\\Laborator5\\Editare-Audio-Video\\Laborator5\\Laborator5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iuli18icl\\.nuget\\packages\\emgu.cv\\4.5.5.4823\\emgu.cv.4.5.5.4823.nupkg.sha512",
     "C:\\Users\\iuli18icl\\.nuget\\packages\\emgu.cv.bitmap\\4.5.5.4823\\emgu.cv.bitmap.4.5.5.4823.nupkg.sha512",
